@@ -13,3 +13,10 @@ A browser-based prototype for **Nostalgia Landscape: Scenery of Collective Memor
 npm install
 npm run dev
 # open http://localhost:5173
+```
+
+# Demo
+
+## html demo
+https://github.com/masa-jp-art/Vibe-Art-012-Nostalgia-Landscape/blob/main/nostalgia-landscape-p5-demo.html
+
